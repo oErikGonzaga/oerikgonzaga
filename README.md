@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oerikgonzaga
-- 👀 I’m interested in Java Development and Data Science
-- 🌱 I’m currently learning Java with Spring and Data Analysis
+- 👀 I’m interested in Java Development
+- 🌱 I’m currently learning Java with Spring
 
 <!---
 oerikgonzaga/oerikgonzaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
