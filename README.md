@@ -30,7 +30,7 @@ Desenvolvedor Backend entusiasmado por tecnologia e inovação, sempre em busca 
 ### Tecnologias que utilizo:
 
 - **Front-end:** HTML, CSS, JavaScript
-- **Back-end:** Node.js, Express, TypeScript
+- **Back-end:** Java, Spring, Python
 - **Banco de Dados:** MySQL, MongoDB
 - **DevOps:** Docker, Git, GitHub Actions
 - **Outras:** RESTful APIs, DBeaver, Postman, Linux
